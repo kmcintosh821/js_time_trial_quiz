@@ -1,4 +1,4 @@
-[{
+var quizItems = [{
     "question": "What HTML tag links your JavaScript file to your HTML file?",
     "answer1": "<link rel='script' href=(path)>",
     "answer2": "<a href=(path)>",
